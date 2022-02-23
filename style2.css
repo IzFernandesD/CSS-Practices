@@ -1,0 +1,31 @@
+h1 {
+    font-size: 60px;
+    color: blue;
+    border-bottom: 1px solid black;
+}
+
+p {
+    font-size: 36px;
+    color: blueviolet;
+}
+.box-red {
+    background-color: red;
+}
+.box-blue {
+    background-color: blue;
+    
+}
+
+.box {
+    height: 150px;
+    width: 150px;
+}
+
+
+#sessao-unica {
+    font-size: 56px;
+}
+
+body {
+    background-color: cadetblue;
+}
